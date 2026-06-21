@@ -15,7 +15,7 @@ A grande inovação desta solução foi o uso do **Desenvolvimento Orientado a I
 
 ## 🧠 Stack Tecnológica & Ecossistema
 * **🤖 Lovable:** Plataforma de IA utilizada para a geração automatizada do front-end e arquitetura da aplicação.
-* **⚛️ React + TanStack Start + Vite:** Tecnologias modernas de performance web geradas pela IA na estrutura do projeto.
+* **⚛️ Ecossistema React & TypeScript:** Tecnologias de código modernas utilizadas pela IA por baixo dos panos para criar a interface e os gráficos.
 * **📊 Power BI & Excel:** Conceitos de modelagem de dados e engenharia de indicadores financeiros aplicados à base de dados.
 
 ---
