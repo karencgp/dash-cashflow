@@ -446,7 +446,7 @@ function Dashboard() {
                     {r.Codigo_Transacao}
                   </TableCell>
                   <TableCell className="text-sm">
-                    {new Date(r.Data).toLocaleDateString("pt-BR")}
+                    {r.Data.split("-").reverse().join("/")}
                   </TableCell>
                   <TableCell>
                     <Badge
