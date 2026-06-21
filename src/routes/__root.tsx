@@ -77,14 +77,18 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
     meta: [
       { charSet: "utf-8" },
       { name: "viewport", content: "width=device-width, initial-scale=1" },
-      { title: "Lovable App" },
-      { name: "description", content: "Lovable Generated Project" },
+      { title: "Dashboard de Fluxo de Caixa" },
+      { name: "description", content: "Dashboard de Fluxo de Caixa desenvolvido no Lovable a partir de planilha Excel. Possui filtros por período, unidade, natureza e forma de pagamento, além de indi" },
       { name: "author", content: "Lovable" },
-      { property: "og:title", content: "Lovable App" },
-      { property: "og:description", content: "Lovable Generated Project" },
+      { property: "og:title", content: "Dashboard de Fluxo de Caixa" },
+      { property: "og:description", content: "Dashboard de Fluxo de Caixa desenvolvido no Lovable a partir de planilha Excel. Possui filtros por período, unidade, natureza e forma de pagamento, além de indi" },
       { property: "og:type", content: "website" },
       { name: "twitter:card", content: "summary" },
       { name: "twitter:site", content: "@Lovable" },
+      { name: "twitter:title", content: "Dashboard de Fluxo de Caixa" },
+      { name: "twitter:description", content: "Dashboard de Fluxo de Caixa desenvolvido no Lovable a partir de planilha Excel. Possui filtros por período, unidade, natureza e forma de pagamento, além de indi" },
+      { property: "og:image", content: "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/a418dc36-2256-4364-9354-b7b0f2f1043a/id-preview-d89b9bc2--88d9295b-684f-4263-8625-052cde04e676.lovable.app-1782004095666.png" },
+      { name: "twitter:image", content: "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/a418dc36-2256-4364-9354-b7b0f2f1043a/id-preview-d89b9bc2--88d9295b-684f-4263-8625-052cde04e676.lovable.app-1782004095666.png" },
     ],
     links: [
       {
